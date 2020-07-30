@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 14:08:14 EDT 2020
+http\://packages.confluent.io/maven/.error=
+http\://packages.confluent.io/maven/.lastUpdated=1595959694016
